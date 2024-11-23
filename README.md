@@ -1,8 +1,6 @@
 # Hi, I'm Surabhi! 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surabhis16&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surabhis16&show_icons=true&theme=radical)
+I’m passionate about coding and exploring **Machine Learning** and **Computer Vision**. I enjoy building simple web apps with **Streamlit**, **HTML**, and **CSS**, and tinkering with **Arduino** for fun projects. I love using **Python** and **C/C++** for different challenges and learning new things along the way!
 
 ## 🛠️ Technologies & Tools
 
@@ -24,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebooks" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
 </div>
