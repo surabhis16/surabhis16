@@ -1,7 +1,5 @@
 # Hi, I'm Surabhi! 👋
 
-I’m passionate about coding and exploring **Machine Learning** and **Computer Vision**. I enjoy building simple web apps with **Streamlit**, **HTML**, and **CSS**, and tinkering with **Arduino** for fun projects. I love using **Python** and **C/C++** for different challenges and learning new things along the way!
-
 ## 🛠️ Technologies & Tools
 
 <div>
